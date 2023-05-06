@@ -10,7 +10,7 @@ Easy Way To PenTest Facebook Acount Password
 Install BeeForce with git
 
 ```bash
-  git clone 
+  git clone https://github.com/Mrhamdi/BeeForce
   cd BeeForce
   pip Install -r requirements.txt
 
